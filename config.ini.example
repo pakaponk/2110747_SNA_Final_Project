@@ -1,0 +1,3 @@
+[FACEBOOK_GRAPH_API]
+ACCESS_TOKEN = YOUR_GRAPH_API_ACCESS_TOKEN
+BASE_URL = https://graph.facebook.com/v2.8/
